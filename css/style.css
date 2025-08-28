@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: aquamarine;
+}
+#heading{
+    background-color: aqua;
+}
+div+p{
+    background-color: yellow;
+}
+/* div~p{
+    background-color: blue;
+}
+
+div:nth-child(2){
+    background-color: brown;
+} */
+
+/* div p:nth-of-type(1){
+    background-color: coral;
+} */
